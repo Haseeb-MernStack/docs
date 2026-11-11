@@ -24,6 +24,6 @@
     "eslint": "catalog:",
     "typescript": "catalog:",
     "tsx": "catalog:",
-    "vitest": "^1.0.0"
+    "vitest": "^5.1.0"
   }
 }
